@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest12.10.cpp
+D:\Project\lb12\LB12.10\Source.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\Project\lb12\LB12.10\Debug\UnitTest12.10.lib and object D:\Project\lb12\LB12.10\Debug\UnitTest12.10.exp
+  UnitTest12.10.vcxproj -> D:\Project\lb12\LB12.10\Debug\UnitTest12.10.dll
